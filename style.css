@@ -27,7 +27,7 @@ nav{
     width: 400px;
     border-radius: 20px;
     background-color: rgb(241, 247, 247);
-    border-radius: 220px;
+    border-radius: 240px;
     border: 50px solid rgb(131, 216, 228);
    
     
@@ -340,7 +340,7 @@ h12{
 }
 .sec-4{
     display: flex;
-    margin-top: 54%;
+    margin-top: 44%;
     
 }
 .doc-1{
@@ -385,7 +385,7 @@ h12{
 .form{
     padding: 40px;
     margin: 40px;
-    height: 220px;
+    height: 200px;
     width: 800px;
     background-color: rgb(174, 248, 248);
     border-radius: 26px;
@@ -470,11 +470,17 @@ h12{
 }
 
 footer{
-    margin-top: 4%;
+    margin-top: 1%;
     font-family: sans-serif;
    
 }
+.star-1{
+    color: rgb(153, 102, 6);
+}
 
+.star-2{
+    color: rgb(153, 102, 6);
+}
 
 
 
